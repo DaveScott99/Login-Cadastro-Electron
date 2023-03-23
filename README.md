@@ -1,4 +1,4 @@
-# Conversor de Polegadas para Centímetros Desenvolvido em Electron
+# Telas de Login e Cadastro desenvolvidas em Electron
 
 ## Inicilizar o projeto
 
